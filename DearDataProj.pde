@@ -49,11 +49,7 @@ void draw() {
     float diameter = map(tabs, 0, 20, 10, 60);
 
     // fill chosen using the reason using helper function
-    //fill(reasonColor(reason));
     fill(reasonColor(reason), map(tabs, 0, 20, 80, 255));
-    
-    // creating ellipse
-    //ellipse(x, y, diameter, diameter);
     
     // Hover detection
     float distToMouse = dist(mouseX, mouseY, x, y);
@@ -118,3 +114,4 @@ void drawLabels() {
     text(nf(i*2,2) + ":00", 150 + i*80 - 15, 50);
   }
 }
+
