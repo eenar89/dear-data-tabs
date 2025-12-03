@@ -42,7 +42,7 @@ The sketch supports any number of days and will dynamically grow based on the CS
 1. Download or clone repository
 2. Open the `.pde` file in **Processing**
 3. Make sure the `tabs.csv` is inside the `data/` folder
-4. Run the sketch
+4. Run the `DearDataProj.pde` sketch
 
 
 ## Usage
