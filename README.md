@@ -28,14 +28,6 @@ The sketch supports any number of days and will dynamically grow based on the CS
 - Dyanimc layout of the days.
 - Based on CSV data.
 
-### Colour Key
-![Sleeping](https://img.shields.io/static/v1?label=Sleeping&message=&color=82C8FF)
-![Work](https://img.shields.io/static/v1?label=Work&message=&color=FFAA78)
-![Coding](https://img.shields.io/static/v1?label=Coding&message=&color=C864FF)
-![Out](https://img.shields.io/static/v1?label=Out&message=&color=A0BEFF)
-![Shopping](https://img.shields.io/static/v1?label=Shopping&message=&color=78DC78)
-![Entertainment](https://img.shields.io/static/v1?label=Entertainment&message=&color=FF64A0)
-
 
 ## File Structure
 - `DearDataProj.pde`: Main Processing sketch.
