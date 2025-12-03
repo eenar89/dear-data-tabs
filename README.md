@@ -47,4 +47,4 @@ The sketch supports any number of days and will dynamically grow based on the CS
 
 ## Usage
 - Hover over any circle to see the number of tabs open and associated activity.
-- Add new data rows to tabs.csv to extend the visuavisualisation - no changes to the code.
+- Add new data rows to tabs.csv to extend the visualisation - no changes to the code.
