@@ -29,12 +29,13 @@ The sketch supports any number of days and will dynamically grow based on the CS
 - Based on CSV data.
 
 ### Colour Key
-<span style="display:inline-block;width:15px;height:15px;background:#82C8FF;border-radius:3px;"></span> Sleeping  
-<span style="display:inline-block;width:15px;height:15px;background:#FFAA78;border-radius:3px;"></span> Work 
-<span style="display:inline-block;width:15px;height:15px;background:#C8644FF;border-radius:3px;"></span> Coding
-<span style="display:inline-block;width:15px;height:15px;background:#A0BEFF;border-radius:3px;"></span> Out
-<span style="display:inline-block;width:15px;height:15px;background:#78DC78;border-radius:3px;"></span> Shopping
-<span style="display:inline-block;width:15px;height:15px;background:#FF64A0;border-radius:3px;"></span> Entertainment
+![Sleeping](https://img.shields.io/static/v1?label=Sleeping&message=&color=82C8FF)
+![Work](https://img.shields.io/static/v1?label=Work&message=&color=FFAA78)
+![Coding](https://img.shields.io/static/v1?label=Coding&message=&color=C864FF)
+![Out](https://img.shields.io/static/v1?label=Out&message=&color=A0BEFF)
+![Shopping](https://img.shields.io/static/v1?label=Shopping&message=&color=78DC78)
+![Entertainment](https://img.shields.io/static/v1?label=Entertainment&message=&color=FF64A0)
+
 
 ## File Structure
 - `DearDataProj.pde`: Main Processing sketch.
